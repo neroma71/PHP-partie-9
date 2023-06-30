@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    padding:0;
+    min-width:100vw;
+    min-height:100vh;
+    font-family:Helvetica, sans-serif;
+}
+table{
+    position:relative;
+    width:80%;
+    left:10%;
+    border-collapse:collapse;
+    text-align:center;
+}
+table th{
+    width:100px;
+    border:1px solid black;
+    background:grey;
+    color:white;
+}
+table tr{
+    border:1px solid black;
+    height:50px;
+    width:100px;
+}
+table tr td{
+    border:1px solid black;
+}
